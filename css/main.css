@@ -17,16 +17,16 @@ article {
   padding: 0 1rem;
 }
 
-article header {
-  margin: 0;
-  padding: 0 1.3rem;
-  border-bottom: 1px solid #999;
-}
-
 article h1 {
   font-size: 1.5rem;
   font-weight: normal;
   margin: 0;
+}
+
+article header {
+  margin: 0;
+  padding: 1.3rem 0;
+  border-bottom: 1px solid #999;
 }
 
 article p {
